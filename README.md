@@ -171,7 +171,7 @@ Below is a list of the APIs that have and have not been implemented. If you want
 
 ### Options
 
-- [ ] End of Day Options
+- [x] End of Day Options
 
 ### Social Sentiment
 
@@ -179,11 +179,11 @@ Below is a list of the APIs that have and have not been implemented. If you want
 
 ### CEO Compensation
 
-- [ ] CEO Compensation
+- [x] CEO Compensation
 
 ### Treasuries
 
-- [ ] Daily Treasury Rates
+- [x] Daily Treasury Rates
 
 ### Commodities
 

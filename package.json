@@ -1,15 +1,15 @@
 {
-  "name": "iex-cloud",
-  "version": "2.2.0",
+  "name": "iex-cloud-ee",
+  "version": "2.1.3",
   "description": "IEX Cloud API TypeScript Client",
   "main": "build/main/index.js",
   "typings": "build/main/index.d.ts",
   "module": "build/module/index.js",
-  "repository": "https://github.com/zishe/iex-cloud",
-  "author": "Alexander Kireev",
+  "repository": "https://github.com/eenewbsauce/iex-cloud",
+  "author": "Ryan Tracey",
   "license": "MIT",
   "keywords": [
-    "iex cluod api"
+    "iex cloud api"
   ],
   "scripts": {
     "build": "run-s clean && run-p build:*",
@@ -32,7 +32,8 @@
   },
   "dependencies": {
     "dotenv": "^8.2.0",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.0",
+    "yarn": "^1.7.0"
   },
   "devDependencies": {
     "@pollyjs/adapter-node-http": "^4.3.0",
